@@ -1,3 +1,5 @@
-def print_first(arr):
-    print(arr[0])
-    print(arr[0])
+a = int(input())
+b = int(input())
+
+c = a + b
+print(c)
